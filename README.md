@@ -7,7 +7,7 @@ a opção escolhida utilizando local storage, atualizando automaticamente o tema
 preferência do usuário quando a página for carregada
 
 ### Tema Claro:
-![Imagem do tema claro](https://github.com/AlissonS47/dark-mode/blob/a4c89047bc7db6aad14ad92693ee7187fa616d6d/assets/img/light-theme.png)
+![Imagem do tema claro](https://github.com/AlissonS47/dark-mode/blob/f73d5b052a77b3b14df0a62b74784c3bc6996350/assets/img/light-theme.jpg)
 
 ### Tema Escuro:
-![Imagem do tema escuro](https://github.com/AlissonS47/dark-mode/blob/a4c89047bc7db6aad14ad92693ee7187fa616d6d/assets/img/dark-theme.png)
+![Imagem do tema escuro](https://github.com/AlissonS47/dark-mode/blob/f73d5b052a77b3b14df0a62b74784c3bc6996350/assets/img/dark-theme.jpg)
